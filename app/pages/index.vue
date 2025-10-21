@@ -1,4 +1,4 @@
 <template>
-    <input type="email" placeholder="email">
-    <input type="tel" placeholder="telefone">
+    <input type="text" placeholder="endereco_eletronico">
+    <input type="text" placeholder="telefone_de_contato">
 </template>
